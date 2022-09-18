@@ -1,0 +1,36 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "소웨 캡디 9조",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.ajou.ac.kr/seungsooyu/sw_capstonedesign.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "child_process": "^1.0.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.18.1",
+    "express-session": "^1.17.2",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "passport": "^0.5.2",
+    "passport-local": "^1.0.0",
+    "python-shell": "^3.0.1",
+    "sequelize": "^6.19.0",
+    "sequelize-cli": "^6.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
