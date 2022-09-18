@@ -4,7 +4,7 @@
 아주대 gitlab 서버에서 작업을 진행했는데, 아이디가 없으면 조회가 불가능해서 github에도 업로드했습니다.
 
 ### Softcon 제출
-[Ajou Softcon 제출](https://softcon.ajou.ac.kr/works/works.asp?uid=568)
+[Ajou Softcon 제출](https://softcon.ajou.ac.kr/works/works_prev.asp?uid=568&wTerm=2022-1)
 
 ### 프로젝트 정리
 [Notion 정리](https://thundering-guavaberry-822.notion.site/caed9afa17c84ac39bf5425715af7644)
